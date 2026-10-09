@@ -1,0 +1,9 @@
+Bài tập 3 : 
+1.	Danh sách các lệnh powershell đã dùng :
+Ni smart-farm\data\logs , smart-farm/code -Force
+Ni config.json , sensor.py , .env
+Cp code backup/code_v1 -Rescure
+2.	Mô hình IPO 
+Input: thao tác nhập lệnh vào terminals
+process : máy tính sẽ mã hóa dòng lệnh 
+output: hiển thị lỗi sai , file thư mục được tạo , kết quả của các lệnh nhập để hiển thị ra màn hình 
